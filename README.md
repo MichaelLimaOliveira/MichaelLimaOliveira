@@ -1,4 +1,8 @@
 ## Olá eu sou o Michael Lima, Desenvolvedor Backend !
+
+- 🔭 Atualmente trabalho com desenvolvimento fullstack Backend/mobile
+- 🌱 Estudando React Native
+
 <div align="center">
   <a href="https://github.com/MichaelLimaOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelLimaOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,5 +27,3 @@
   <a href = "mailto:michaellima.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michael-lima-de-oliveira-57034023a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
-   ![Snake animation](https://github.com/MichaelLimaOliveira/MichaelLimaOliveira/blob/output/github-contribution-grid-snake.svg)
