@@ -1,4 +1,4 @@
-## Olá eu sou o Michael Lima, Desenvolvedor Backend !
+## Olá eu sou o Michael Lima, Desenvolvedor fullstack Backend/mobile !
 
 - 🔭 Atualmente trabalho com desenvolvimento fullstack Backend/mobile
 - 🌱 Estudando React Native
